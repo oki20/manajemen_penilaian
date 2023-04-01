@@ -10,3 +10,4 @@ Atlantis Lite admin dashboard has 2 layouts, many plugins and UI components to h
 
 We made documentation how you started using this dashboard template and use available components and plugins.
 # Repository-Baru
+# sistem_manajemen_penilaian
